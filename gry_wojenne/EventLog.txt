@@ -1,0 +1,105 @@
+General Patryk bought soldier S1479 for 10.0 gold.
+General Patryk's gold has changed from 1000.0 by 10.0 to 990.0.
+General Patryk bought soldier S9960 for 30.0 gold.
+General Patryk's gold has changed from 990.0 by 30.0 to 960.0.
+General Patryk bought soldier S5478 for 10.0 gold.
+General Patryk's gold has changed from 960.0 by 10.0 to 950.0.
+General Patryk bought soldier S5274 for 20.0 gold.
+General Patryk's gold has changed from 950.0 by 20.0 to 930.0.
+General Patryk commanded a drill of 4 soldiers:
+   Soldier S1479
+   Soldier S5478
+   Soldier S5274
+   Soldier S9960
+Every soldier taking part in drill gained 1 experience.
+General Patryk's gold has changed from 930.0 by 7.0 to 923.0.
+General Janusz bought soldier S1465 for 10.0 gold.
+General Janusz's gold has changed from 1000.0 by 10.0 to 990.0.
+General Janusz bought soldier S8641 for 30.0 gold.
+General Janusz's gold has changed from 990.0 by 30.0 to 960.0.
+General Janusz bought soldier S8952 for 10.0 gold.
+General Janusz's gold has changed from 960.0 by 10.0 to 950.0.
+General Janusz bought soldier S3695 for 20.0 gold.
+General Janusz's gold has changed from 950.0 by 20.0 to 930.0.
+General Janusz commanded a drill of 4 soldiers:
+   Soldier S1465
+   Soldier S8952
+   Soldier S3695
+   Soldier S8641
+Every soldier taking part in drill gained 1 experience.
+General Janusz's gold has changed from 930.0 by 7.0 to 923.0.
+General Patryk attacked general Janusz:
+Draw.
+Every general removed one of his soldiers. 
+Soldier S5274 has been removed from general Patryk's army.
+Soldier S3695 has been removed from general Janusz's army.
+General Patryk bought soldier S5420 for 10.0 gold.
+General Patryk's gold has changed from 1000.0 by 10.0 to 990.0.
+General Patryk bought soldier S7982 for 30.0 gold.
+General Patryk's gold has changed from 990.0 by 30.0 to 960.0.
+General Patryk bought soldier S3188 for 10.0 gold.
+General Patryk's gold has changed from 960.0 by 10.0 to 950.0.
+General Patryk bought soldier S7449 for 20.0 gold.
+General Patryk's gold has changed from 950.0 by 20.0 to 930.0.
+General Patryk commanded a drill of 4 soldiers:
+   Soldier S5420
+   Soldier S3188
+   Soldier S7449
+   Soldier S7982
+Every soldier taking part in drill gained 1 experience.
+General Patryk's gold has changed from 930.0 by 7.0 to 923.0.
+General Janusz bought soldier S9513 for 10.0 gold.
+General Janusz's gold has changed from 1000.0 by 10.0 to 990.0.
+General Janusz bought soldier S2378 for 30.0 gold.
+General Janusz's gold has changed from 990.0 by 30.0 to 960.0.
+General Janusz bought soldier S4350 for 10.0 gold.
+General Janusz's gold has changed from 960.0 by 10.0 to 950.0.
+General Janusz bought soldier S2589 for 20.0 gold.
+General Janusz's gold has changed from 950.0 by 20.0 to 930.0.
+General Janusz commanded a drill of 4 soldiers:
+   Soldier S9513
+   Soldier S4350
+   Soldier S2589
+   Soldier S2378
+Every soldier taking part in drill gained 1 experience.
+General Janusz's gold has changed from 930.0 by 7.0 to 923.0.
+General Patryk attacked general Janusz:
+Draw.
+Every general removed one of his soldiers. 
+Soldier S7982 has been removed from general Patryk's army.
+Soldier S2378 has been removed from general Janusz's army.
+General Patryk bought soldier S2079 for 10.0 gold.
+General Patryk's gold has changed from 1000.0 by 10.0 to 990.0.
+General Patryk bought soldier S1862 for 30.0 gold.
+General Patryk's gold has changed from 990.0 by 30.0 to 960.0.
+General Patryk bought soldier S5157 for 10.0 gold.
+General Patryk's gold has changed from 960.0 by 10.0 to 950.0.
+General Patryk bought soldier S1915 for 20.0 gold.
+General Patryk's gold has changed from 950.0 by 20.0 to 930.0.
+General Patryk commanded a drill of 4 soldiers:
+   Soldier S2079
+   Soldier S5157
+   Soldier S1915
+   Soldier S1862
+Every soldier taking part in drill gained 1 experience.
+General Patryk's gold has changed from 930.0 by 7.0 to 923.0.
+General Janusz bought soldier S6632 for 10.0 gold.
+General Janusz's gold has changed from 1000.0 by 10.0 to 990.0.
+General Janusz bought soldier S5530 for 30.0 gold.
+General Janusz's gold has changed from 990.0 by 30.0 to 960.0.
+General Janusz bought soldier S7893 for 10.0 gold.
+General Janusz's gold has changed from 960.0 by 10.0 to 950.0.
+General Janusz bought soldier S6852 for 20.0 gold.
+General Janusz's gold has changed from 950.0 by 20.0 to 930.0.
+General Janusz commanded a drill of 4 soldiers:
+   Soldier S6632
+   Soldier S7893
+   Soldier S6852
+   Soldier S5530
+Every soldier taking part in drill gained 1 experience.
+General Janusz's gold has changed from 930.0 by 7.0 to 923.0.
+General Patryk attacked general Janusz:
+Draw.
+Every general removed one of his soldiers. 
+Soldier S1915 has been removed from general Patryk's army.
+Soldier S6852 has been removed from general Janusz's army.
