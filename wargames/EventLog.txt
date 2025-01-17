@@ -1,0 +1,14 @@
+Soldier S1214 has been added to general Test General's army.
+Soldier S6429 has been added to general Test General's army.
+General Test General commanded a drill of 1 soldiers:
+   Soldier S1214
+Every soldier taking part in drill gained 1 experience.
+General Test General's gold has changed from 100.0 by 1.0 to 99.0.
+Soldier S2448 has been added to general Test General's army.
+Soldier S9893 has been added to general Test General's army.
+General Test General bought soldier S6178 for 10.0 gold.
+General Test General's gold has changed from 100.0 by 10.0 to 90.0.
+Soldier S3175 has been added to general Test General's army.
+Soldier S5474 has been added to general Test General's army.
+Soldier S5474 has been removed from general Test General's army.
+General Test General's gold has changed from 100.0 by -50.0 to 150.0.
